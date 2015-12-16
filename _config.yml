@@ -8,9 +8,9 @@ permalink:        pretty
 # Setup
 title:            field noise
 tagline:          'sound | nature | technology'
-description:      'sound | nature | technology. A blog by <a href="http://craigeley.com">Craig Eley</a>'
+description:      'sound | nature | tech<br>A blog by <a href="http://craigeley.com">Craig Eley</a>'
 url:              http://fieldnoise.com
-baseurl:          http://craigeley.github.io/fieldnoise-site/
+baseurl:          /
 
 author:
   name:           'Craig Eley'
@@ -28,3 +28,5 @@ gems:
   - jekyll-paginate
   - jekyll-gist
   - pygments.rb
+  
+disqusid: fieldnoise
