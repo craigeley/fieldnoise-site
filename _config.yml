@@ -10,7 +10,7 @@ title:            field noise
 tagline:          'sound | nature | technology'
 description:      'sound | nature | technology. A blog by <a href="http://craigeley.com">Craig Eley</a>'
 url:              http://fieldnoise.com
-baseurl:          /
+baseurl:          http://craigeley.github.io/fieldnoise-site/
 
 author:
   name:           'Craig Eley'
