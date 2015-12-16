@@ -34,7 +34,19 @@ disqusid: fieldnoise
 prose:
     metadata:
         _posts:
-            - name: "title"
-          field:
-            element: "text"
-            label: "title"
+          - name: "layout"
+            field:
+              element: "hidden"
+              value: "post"
+          - name: "tags"
+            field:
+              element: "multiselect"
+              label: "Add Tags"
+              placeholder: "Add Tags"
+              alterable: true
+          - name: "title"
+            field:
+              element: "text"
+              label: "Post title"
+              placeholder: "Title"
+              alterable: true
