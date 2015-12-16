@@ -1,7 +1,3 @@
----
-published: true
----
-
 ---  
 title: Test
 author: Craig Eley 
