@@ -32,6 +32,7 @@ gems:
 disqusid: fieldnoise
 
 prose:
+    rooturl: '_posts'
     metadata:
         _posts:
           - name: "layout"
