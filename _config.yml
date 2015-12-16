@@ -1,0 +1,30 @@
+# Dependencies
+markdown:         kramdown
+highlighter:      pygments
+
+# Permalinks
+permalink:        pretty
+
+# Setup
+title:            field noise
+tagline:          'sound | nature | technology'
+description:      'sound | nature | technology. A blog by <a href="http://craigeley.com">Craig Eley</a>'
+url:              http://fieldnoise.com
+baseurl:          /
+
+author:
+  name:           'Craig Eley'
+  url:            http://craigeley.com
+
+paginate:         5
+
+# Custom vars
+version:          2.0
+
+github:
+  repo:           https://github.com/craigeley/fieldnoise-site
+
+gems:
+  - jekyll-paginate
+  - jekyll-gist
+  - pygments.rb
