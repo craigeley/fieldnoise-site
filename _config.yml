@@ -30,3 +30,11 @@ gems:
   - pygments.rb
   
 disqusid: fieldnoise
+
+prose:
+    metadata:
+        _posts:
+            - name: "title"
+          field:
+            element: "text"
+            label: "title"
