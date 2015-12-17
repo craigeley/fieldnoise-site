@@ -28,8 +28,21 @@ gems:
   - jekyll-paginate
   - jekyll-gist
   - pygments.rb
+  - jekyll-archives
   
 disqusid: fieldnoise
+
+### Tag Archives Config
+
+jekyll-archives:
+  enabled:
+    - tags
+  layout: 'archive'
+  permalinks:
+    tag: '/tag/:name/'
+
+
+### Prose.io Config
 
 prose:
     rooturl: '_posts'
