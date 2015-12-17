@@ -6,9 +6,9 @@ highlighter:      pygments
 permalink:        pretty
 
 # Setup
-title:            field noise
+title:            FIELD NOISE
 tagline:          'sound | nature | technology'
-description:      'sound | nature | tech<br>A blog by <a href="http://craigeley.com">Craig Eley</a>'
+description:      'sound | nature | tech<br>A blog by Craig Eley'
 url:              http://fieldnoise.com
 baseurl:          /
 

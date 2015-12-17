@@ -27,9 +27,9 @@
       {% endfor %}
 
       <a class="sidebar-nav-item" href="{{ site.github.repo }}">Website GitHub Repo</a>
-      <span class="sidebar-nav-item">Currently v{{ site.version }}</span>
+      <span class="sidebar-nav-item">Last updated on {{ site.posts[0].date | date: '%B %d, %Y' }}</span>
     </nav>
 
-    <p>&copy; {{ site.time | date: '%Y' }}. All rights reserved.</p>
+    <p>&copy; {{ site.time | date: '%Y' }}. <a href="http://creativecommons.org/licenses/by-nc/4.0/">Some rights reserved.</a></p>
   </div>
 </div>
