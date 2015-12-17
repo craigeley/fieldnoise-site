@@ -9,4 +9,4 @@ Obviously, this is a blog. But "field noise" is really a catch-all idea for a va
 This is a [Jekyll site](http://jekyllrb.com) running the [Hyde theme](http://hyde.getpoole.com), with help from [Bigfoot](http://www.bigfootjs.com), [jekyll-archives](https://github.com/jekyll/jekyll-archives) and [glynn](https://github.com/dmathieu/glynn). The favicon is by [Erik Vullings for the Noun Project](https://thenounproject.com/term/radio-tower/24070/). This site is hosted by [Reclaim Hosting](https://reclaimhosting.com).
 
 ### me
-I'm a cultural historian and radio producer interested in sound, media technologies, and nature. Currently I'm an ACLS Public Fellow at To the Best of Our Knowledge, a weekly radio program produced at Wisconsin Public Radio. I'm [@craigeley](https://twitter.com/craigeley) on Twitter.
+I'm a cultural historian and radio producer interested in sound, media technologies, and nature. Currently I'm an ACLS Public Fellow at To the Best of Our Knowledge, a weekly radio program produced at Wisconsin Public Radio. You can find me on Twitter as [@craigeley](https://twitter.com/craigeley).
