@@ -8,13 +8,13 @@ permalink:        pretty
 # Setup
 title:            FIELD NOISE
 tagline:          'sound | nature | technology'
-description:      'sound | nature | tech<br>A blog by Craig Eley'
+description:      'sound | nature | tech<br>A blog by <a href="http://craigeley.github.io">Craig Eley</a>'
 url:              http://fieldnoise.com
 baseurl:          /
 
 author:
   name:           'Craig Eley'
-  url:            http://craigeley.github.io/fieldnoise-site/
+  url:            http://craigeley.github.io
 
 paginate:         5
 
