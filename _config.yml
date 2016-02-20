@@ -8,7 +8,7 @@ permalink:        /:month-:day-:year/:title/
 # Setup
 title:            FIELD NOISE
 tagline:          'sound | nature | technology'
-description:      'sound | nature | tech<br>A blog by <a href="http://craigeley.github.io">Craig Eley</a>'
+description:      'sound | nature | tech<br>A blog by <a href="http://craigeley.com">Craig Eley</a>'
 url:              http://fieldnoise.com
 baseurl:          /
 
