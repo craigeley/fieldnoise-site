@@ -14,7 +14,7 @@ baseurl:          /
 
 author:
   name:           'Craig Eley'
-  url:            http://craigeley.github.io
+  url:            http://craigeley.com
 
 paginate:         5
 
@@ -37,9 +37,11 @@ disqusid: fieldnoise
 jekyll-archives:
   enabled:
     - tags
+    - month
   layout: 'archive'
   permalinks:
     tag: '/tagged/:name/'
+    month: '/archives/:year-:month/'
 
 
 ### Prose.io Config
