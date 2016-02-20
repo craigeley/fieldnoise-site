@@ -8,8 +8,7 @@ tags:
 - earth day 
 - teaching 
 redirect_from: /post/83541782161/help-scientists-record-one-day-of-sound-on-earth/
-image: /images/radio-pink.jpg
----
+--- 
 
 From [Help Scientists Record One Day of Sound on Earth](http://www.wired.com/2014/04/soundscape-recorder/): 
 

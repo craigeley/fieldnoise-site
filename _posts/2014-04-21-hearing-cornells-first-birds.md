@@ -8,7 +8,6 @@ tags:
 - Archive 
 - research 
 redirect_from: /post/83413734654/hearing-cornells-first-birds/
-image: /images/radio-brown.jpg
 ---
 
 In honor of (early) Earth Day, here are some early recordings—in fact, they may be the first recordings officially done at the Cornell Lab of Ornithology. Tomorrow in class, I assigned some primary documents about the history of wildlife recording in the U.S., specifically the work of the Ornithology Lab in the 1920s. In digging up some almost-forgotten dissertation research and connecting some new dots, I’m pretty sure I can now can place the first recordings of wild birds that the ornithologists there recorded: a Rose-breasted Grosbeak and a Song Sparrow, both captured just outside of Ithaca on May 18, 1929.
