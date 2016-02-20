@@ -12,6 +12,6 @@ The American history nerd in me is happy to recognize that today marks the 55th 
 
 Despite what the Internet Archive [might have you believe](https://archive.org/details/de50th), then-President Eisenhower did not deliver a speech by William Jennings Bryant on the occasion.[^148211543] Instead, he just said a few words wishing Hawaii happiness and prosperity. Have a listen:
 
-{% audio: /audio/eisenhower_statehood.mp3" type="audio/mpeg"></audio>
+<audio controls><source src="/audio/eisenhower_statehood.mp3" type="audio/mpeg"></audio>
 
 [^148211543]: For unknown reasons, the speech identified at that link as Dwight D. Eisenhower's Hawaii Statehood Proclamation Speech is actually William Jennings Bryant's "Against Imperialism" speech, recorded at the Democratic National Convention in Kansas City on August 8, 1900.
