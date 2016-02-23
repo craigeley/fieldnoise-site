@@ -1,6 +1,6 @@
 ---  
 layout: post 
-title: Birdlike and Wingless: New Words and Sounds on the History of Whistling
+title: Birdlike and Wingless - New Words and Sounds on the History of Whistling
 author: Craig Eley 
 date: 2015-10-07 
 tags: [whistling, publications]
